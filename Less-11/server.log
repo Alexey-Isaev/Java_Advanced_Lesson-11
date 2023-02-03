@@ -1,0 +1,2 @@
+2023-01-24 17:59:53 ERROR BucketDaoImpl:50 - java.sql.SQLException
+2023-01-25 18:38:18 ERROR UserDaoImpl:151 - java.sql.SQLException: Illegal operation on empty result set.
